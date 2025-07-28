@@ -1,5 +1,6 @@
-<img width="1884" height="923" alt="image" src="https://github.com/user-attachments/assets/32f5c98b-23a3-408a-8b77-2eeea6e0f285" />
 # 🏠 Service Domicile - Plateforme de Services à Domicile
+
+<img width="1884" height="923" alt="image" src="https://github.com/user-attachments/assets/32f5c98b-23a3-408a-8b77-2eeea6e0f285" />
 
 Une application web moderne développée avec React et Vite pour la gestion et la réservation de services à domicile. Cette plateforme permet aux utilisateurs de découvrir, réserver et gérer des services professionnels directement depuis leur domicile.
 
