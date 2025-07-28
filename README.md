@@ -194,35 +194,8 @@ L'application supporte la recherche de services par géolocalisation :
 
 ### Zones couvertes
 - Abidjan (Côte d'Ivoire)
-- Paris et banlieue (France)
 - Autres zones configurables
 
-## 🔧 Configuration Avancée
-
-### Variables d'environnement
-Créez un fichier `.env` à la racine du projet :
-
-```env
-VITE_API_URL=http://localhost:3000
-VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
-```
-
-### ESLint
-```bash
-npm run lint
-```
-
-## 🚀 Déploiement
-
-### Vercel (Recommandé)
-1. Connectez votre repo GitHub à Vercel
-2. Configurez les variables d'environnement
-3. Déployez automatiquement
-
-### Netlify
-1. Build : `npm run build`
-2. Dossier de sortie : `dist`
-3. Upload du dossier `dist`
 
 ## 📝 Structure du Projet
 
@@ -241,34 +214,6 @@ service-domicile/
 └── tailwind.config.js
 ```
 
-## 🐛 Dépannage
-
-### Problèmes courants
-
-1. **Port déjà utilisé**
-   ```bash
-   npm run dev -- --port 3001
-   ```
-
-2. **Dépendances manquantes**
-   ```bash
-   rm -rf node_modules package-lock.json
-   npm install
-   ```
-
-3. **Build échoue**
-   ```bash
-   npm run lint
-   # Corriger les erreurs ESLint
-   npm run build
-   ```
-
-## 📞 Support
-
-Pour toute question ou problème :
-- Vérifiez la console du navigateur pour les erreurs
-- Consultez les logs de développement
-- Contactez l'équipe de développement
 
 ## 📄 Licence
 
@@ -276,4 +221,4 @@ Ce projet est développé dans le cadre d'un stage de développement web.
 
 ---
 
-**Développé avec ❤️ par [Votre Nom]**
+**Développé avec ❤️ par Dabo Ali**
